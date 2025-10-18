@@ -11,13 +11,13 @@
 		"enabled": true
 	},
 	"vars": {
-		"APP_API_URL": "https://wr.do/api/v1/email-catcher",
+		"APP_API_URL": "https://eapi.nakeu.cn/api/v1/email-catcher",
 		"ENABLE_ATTACHMENTS": "1"
 	},
 	"r2_buckets": [
 		{
 			"binding": "R2_BUCKET",
-			"bucket_name": "wremail"
+			"bucket_name": "penx-8ea61716-48e2-4629-b916-303b8c1e82ad"
 		}
 	]
 	/**
